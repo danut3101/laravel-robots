@@ -1,5 +1,5 @@
 {
-    "name": "mad-web/laravel-robots",
+    "name": "danut/laravel-robots",
     "description": "Robots.txt generator service.",
     "type": "library",
     "keywords": [
@@ -8,7 +8,7 @@
         "robots",
         "seo"
     ],
-    "homepage": "https://github.com/mad-web/laravel-robots",
+    "homepage": "https://github.com/danut/laravel-robots",
     "license": "MIT",
     "authors": [
         {
